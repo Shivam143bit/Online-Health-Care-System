@@ -1,4 +1,4 @@
-# HealthCare
+# Online Health Care System 
  
 #Prerequisites
 
@@ -6,7 +6,11 @@ Install XAMPP web server Any Editor (Preferably VS Code or Sublime Text) Any web
 
 # Languages and Technologies used
 
-javaScript (to create dynamically updating content) HTML CSS XAMPP (A web server by Apache Friends) Php MySQL
+javaScript (to create dynamically updating content) HTML 
+CSS 
+XAMPP (A web server by Apache Friends) 
+Php 
+MySQL
 
 # Steps to run the project in your machine
 
@@ -50,11 +54,12 @@ Once the patient has logged out of his account, if he wants to go into his accou
 
 The doctors can login into their account which can be done by toggling the tab from ‘User’ to ‘Doctor’. Fig 1.1 shows the login form for a doctor. Registration of a doctor account can be done only by admin. We will discuss more about this in Admin Module.
 
+![Screenshot (10)](https://user-images.githubusercontent.com/85752605/222200724-ba51dccf-2f50-45eb-aa18-57d3e26202dc.png)
+
 # Admin Module:
+
 This module is the heart of our project where an admin can see the list of all patients. Doctors and appointments and the feedback/queries received from the ‘Contact’ page. Also admin can add doctor too.       Login into admin account can be done by toggling into admin tab of the Home page. Fig 1.2 shows the login page for admin.   username: admin@gmail.com, password: admin
 
-
-![Screenshot (10)](https://user-images.githubusercontent.com/85752605/222200724-ba51dccf-2f50-45eb-aa18-57d3e26202dc.png)
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/85752605/222200812-2ac6bdf7-e6d7-4ec5-8153-84431d40081f.png)
 
