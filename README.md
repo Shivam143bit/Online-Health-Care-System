@@ -33,6 +33,14 @@ Online Health care System in php and mysql. This system has a ‘Home’ page fr
 ![Screenshot (8)](https://user-images.githubusercontent.com/85752605/222200636-a2bf6e3c-3ae8-4374-82fc-5bb8106d1017.png)
 
 
+The ‘Home’ page consists of 3 modules:
+
+1.User Module
+2.Doctor Module
+3.Admin Module
+
+
+![Screenshot (8)](https://user-images.githubusercontent.com/85752605/222209896-ef58f6ce-c9ca-44a1-9368-0a0094d87739.png)
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/85752605/222200724-ba51dccf-2f50-45eb-aa18-57d3e26202dc.png)
 
