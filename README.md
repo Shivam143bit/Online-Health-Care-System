@@ -6,11 +6,11 @@ Install XAMPP web server Any Editor (Preferably VS Code or Sublime Text) Any web
 
 # Languages and Technologies used
 
-javaScript (to create dynamically updating content) HTML 
-CSS 
-XAMPP (A web server by Apache Friends) 
-Php 
-MySQL
+1.JavaScript (to create dynamically updating content) HTML 
+2.CSS 
+3.XAMPP (A web server by Apache Friends) 
+4.Php 
+5.MySQL
 
 # Steps to run the project in your machine
 
