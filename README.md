@@ -34,13 +34,17 @@ Online Health care System in php and mysql. This system has a ‘Home’ page fr
 
 
 The ‘Home’ page consists of 3 modules:
-
 1.User Module
 2.Doctor Module
 3.Admin Module
 
+# Patient Module:
+This module allows patients to create their account, book an appointment to see a doctor and see their appointment history. The registration page(in the home page itself) asks patients to enter their First Name, Last Name, Email ID, Contact Number, Password and radio buttons to select their gender.
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/85752605/222209896-ef58f6ce-c9ca-44a1-9368-0a0094d87739.png)
+
+
+Once the patient has logged out of his account, if he wants to go into his account again, he can login his account, instead of register his account again. Fig 1.9 shows the login page. Clicking on ‘Login’ button will redirect the patient to his dashboard page which we have seen earlier
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/85752605/222200724-ba51dccf-2f50-45eb-aa18-57d3e26202dc.png)
 
