@@ -46,6 +46,14 @@ This module allows patients to create their account, book an appointment to see 
 
 Once the patient has logged out of his account, if he wants to go into his account again, he can login his account, instead of register his account again. Fig 1.9 shows the login page. Clicking on ‘Login’ button will redirect the patient to his dashboard page which we have seen earlier
 
+# Doctor Module:
+
+The doctors can login into their account which can be done by toggling the tab from ‘User’ to ‘Doctor’. Fig 1.1 shows the login form for a doctor. Registration of a doctor account can be done only by admin. We will discuss more about this in Admin Module.
+
+# Admin Module:
+This module is the heart of our project where an admin can see the list of all patients. Doctors and appointments and the feedback/queries received from the ‘Contact’ page. Also admin can add doctor too.       Login into admin account can be done by toggling into admin tab of the Home page. Fig 1.2 shows the login page for admin.   username: admin@gmail.com, password: admin
+
+
 ![Screenshot (10)](https://user-images.githubusercontent.com/85752605/222200724-ba51dccf-2f50-45eb-aa18-57d3e26202dc.png)
 
 ![Screenshot (9)](https://user-images.githubusercontent.com/85752605/222200812-2ac6bdf7-e6d7-4ec5-8153-84431d40081f.png)
