@@ -23,14 +23,14 @@ Download and install XAMPP in your machine
 6.import the file 'sourcecodester_healthcaredb' inside your newly created database and click ok.
 7.Open a new tab and type 'localhost/foldername' in the url of your browser
 
-#Starting Apache And MySQL in XAMPP:
+# Starting Apache And MySQL in XAMPP:
 
 The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/85752605/222200378-9c9bc567-c0d8-48f2-9678-f8a8cbad6aa2.png)
 
 
-#GETTING INTO THE PROJECT:
+# GETTING INTO THE PROJECT:
 
 Online Health care System in php and mysql. This system has a ‘Home’ page from where the user, doctor & administrator can login into their accounts by toggling the tabs accordingly. Fig shows the ‘Home’ page of our project.
 
